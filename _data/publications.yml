@@ -31,7 +31,7 @@ main:
 
   - title: "Challenges in detecting ecological interactions using sedimentary ancient DNA data"
     year: 2025
-    authors: <strong>Callahan, F. M., Li, J. K., & Nielsen, R.</strong>
+    authors: <strong>Callahan, F. M.</strong>, Li, J. K., & Nielsen, R.
     conference: Environmental DNA. DOI:10.1002/edn3.70067.
     image: ./assets/img/challenges.png
     pdf: ./assets/pdfs/challenges.pdf
