@@ -4,19 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Computational Biology Ph.D. student at UC Berkeley working with Dr. Rasmus Nielsen. I got my BA in Mathematical and Computational Biology from Scripps College (major through Harvey Mudd College). I work on a variety of statistical and computational models to investigate questions about how ecological communities form, and how and why they change over time. My recent work has focused on simulation studies using network models for community ecology and methods development for analysis of ancient environmental DNA. I am also dedicated to promoting diversity in the sciences through equity-oriented mentorship and teaching!
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Community ecology:** species interactions, responses to climate change, species distribution modeling
+- **Ecological network theory:** co-occurrence networks, interaction networks, generalized Lotka-Volterra models
+- **Environmental DNA:** sedimentary ancient DNA, time series data, modeling change in communities over time
 
 {% include_relative _includes/publications.md %}
 
