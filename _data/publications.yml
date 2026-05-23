@@ -18,7 +18,7 @@ main:
     authors: <strong>Callahan, F. M.†</strong>, & Evensen, C.†. 
     conference: bioRxiv, 2026-04. DOI:10.64898/2026.04.15.718781.
     notes: In review. †co-first authors.
-    image: ./assets/img/coocurrence.png
+    image: ./assets/img/cooccurrence.png
 
   - title: "STEM-LM: Spatio-Temporal Ecological Modeling via Masked Language Model for Joint Species Distribution"
     year: 2026
