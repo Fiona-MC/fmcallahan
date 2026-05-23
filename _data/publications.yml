@@ -10,7 +10,7 @@ main:
     year: 2026
     authors: Kjær, K. H.†, Ruter, A. H.†, Menendez-Serra, M.†, Vogel, N. A.†, Ramsøe, A. D.†, Farnsworth, W. R.†, Siggaard-Andersen, M.-L.†, Huang, Z.†, <strong>Callahan, F.†</strong>, Mesny, F.†, … Willerslev, E. (in review). 
     conference: Nature.
-    notes: In review. †co-first authors.
+    notes: in review. †co-first authors.
     image: ./assets/img/reykjavik.png
 
   - title: "Co-occurrence networks can preserve emergent properties of ecological communities"
@@ -25,7 +25,7 @@ main:
     year: 2026
     authors: Li, J. K., Lim, W., <strong>Callahan, F. M.</strong>, Raskin, L. Y., Lemmon-Kishi, M., & Nielsen, R.
     conference: bioRxiv, 2026-05.
-    notes: In review.
+    notes: in review.
     image: ./assets/img/stemlm.png
     pdf: ./assets/pdfs/stemlm.pdf
 
