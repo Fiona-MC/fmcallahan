@@ -15,21 +15,24 @@ main:
 
   - title: "Co-occurrence networks can preserve emergent properties of ecological communities"
     year: 2026
-    authors: <strong>Callahan, F. M.†</strong>, & Evensen, C.†. 
+    authors: <strong>Callahan, F. M.†</strong>, & Evensen, C.†.
     conference: bioRxiv, 2026-04. DOI:10.64898/2026.04.15.718781.
     notes: In review. †co-first authors.
     image: ./assets/img/cooccurrence.png
+    pdf: ./assets/pdfs/cooccurrence.pdf
 
   - title: "STEM-LM: Spatio-Temporal Ecological Modeling via Masked Language Model for Joint Species Distribution"
     year: 2026
     authors: Li, J. K., Lim, W., <strong>Callahan, F. M.</strong>, Raskin, L. Y., Lemmon-Kishi, M., & Nielsen, R.
-    conference: bioRxiv, 2026-05. 
+    conference: bioRxiv, 2026-05.
     notes: In review.
     image: ./assets/img/stemlm.png
+    pdf: ./assets/pdfs/stemlm.pdf
 
   - title: "Challenges in detecting ecological interactions using sedimentary ancient DNA data"
     year: 2025
     authors: <strong>Callahan, F. M., Li, J. K., & Nielsen, R.</strong>
-    conference: Environmental DNA. DOI:10.1002/edn3.70067. 
+    conference: Environmental DNA. DOI:10.1002/edn3.70067.
     image: ./assets/img/challenges.png
+    pdf: ./assets/pdfs/challenges.pdf
     

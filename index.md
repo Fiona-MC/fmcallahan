@@ -13,3 +13,5 @@ I am a Computational Biology Ph.D. student at UC Berkeley working with Dr. Rasmu
 - **Environmental DNA:** sedimentary ancient DNA, time series data, modeling change in communities over time
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/teaching.md %}
