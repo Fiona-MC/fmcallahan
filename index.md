@@ -10,7 +10,7 @@ I am a Computational Biology Ph.D. student at UC Berkeley working with Dr. Rasmu
 ## Research Interests
 
 - **Community ecology:** species interactions, responses to climate change, species distribution modeling
-- **Ecological network theory:** co-occurrence networks, interaction networks, generalized Lotka-Volterra models
+- **Ecological network theory:** co-occurrence networks, interaction networks, dynamical systems
 - **Environmental DNA:** sedimentary ancient DNA, time series data, modeling change in communities over time
 
 {% include_relative _includes/publications.md %}
