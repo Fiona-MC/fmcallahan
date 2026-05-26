@@ -1,6 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
+<p style="font-size:0.85em; font-style:italic; margin: 4px 0px 8px;">*Some publications appear under Fiona Margaret Callahan</p>
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
