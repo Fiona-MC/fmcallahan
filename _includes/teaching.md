@@ -1,7 +1,7 @@
 ## Teaching & Mentorship
 
 **Graduate Student Instructor, UC Berkeley**
-- Led discussion sections for Human Biological Variation (~80 students, Summer 2025)
+- Led discussion sections for Human Biological Variation (~80 students, Spring 2026)
 - Taught Berkeley Connect in Computational Biology (40 students, Fall 2023 & Spring 2024)
 - Designed original syllabi, lesson plans, and coordinated accessibility accommodations
 
