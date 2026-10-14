@@ -1,8 +1,12 @@
 ## Teaching & Mentorship
+**Interim Lecturer, Department of Integrative Biology, UC Berkeley**
+- Instructor of record for *Human Biological Variation* (IB35AC; ~400 students; Spring 2027)
+- Managed five graduate student instructors
+- Modified syllabus and lesson plans to center active learning and student engagement in a large lecture setting
 
 **Graduate Student Instructor, UC Berkeley**
-- Led discussion sections for Human Biological Variation (~80 students, Spring 2026)
-- Taught Berkeley Connect in Computational Biology (40 students, Fall 2023 & Spring 2024)
+- Led discussion sections for *Human Biological Variation* (~80 students, Spring 2026)
+- Taught *Berkeley Connect in Computational Biology* (40 students, Fall 2023 & Spring 2024)
 - Designed original syllabi, lesson plans, and coordinated accessibility accommodations
 
 **Math Instructor, Mount Tamalpais College, San Quentin Rehabilitation Center**
@@ -19,6 +23,5 @@
 - Volunteer mentor, Be A Scientist program: guided 7th grade students in designing and conducting independent experiments
 
 **Pedagogical Training**
-- Certificate in Teaching and Learning in Higher Education (UC Berkeley, in progress)
 - Completed workshops in inclusive classroom design, accessibility, and evidence-based teaching practices
 - Completed pedagogy and mentorship courses at UC Berkeley
