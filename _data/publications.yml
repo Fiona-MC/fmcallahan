@@ -1,5 +1,10 @@
 main:
-
+  - title: "3.7 million year old environmental DNA from High Arctic Canada."
+    year: 2026
+    authors: De Sanctis, B.†, Rouillard, A.†, … <strong>Callahan, F.</strong>, … & Willerslev, E. 
+    image: ./assets/img/ellesmere.png
+    notes: in review
+    
   - title: "Reproducibility and normalization in ancient environmental DNA"
     year: 2026
     authors: <strong>Callahan, F. M.</strong>, Kjær, K. H., Ramsøe, A. D., Willerslev, E., & Nielsen, R.
