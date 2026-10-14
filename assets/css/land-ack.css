@@ -1,0 +1,26 @@
+/* Land acknowledgement styles */
+.land-ack {
+  margin: 1rem 0;
+  padding: 0.6rem 0.8rem;
+  border-left: 3px solid rgba(108,117,125,0.9);
+  background: rgba(0,0,0,0.03);
+}
+.land-ack__text {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: #333;
+}
+.land-ack__source {
+  margin: 0.4rem 0 0;
+  font-size: 0.85rem;
+  color: #666;
+}
+@media (prefers-color-scheme: dark) {
+  .land-ack { background: rgba(255,255,255,0.02); }
+  .land-ack__text { color: #ddd; }
+  .land-ack__source { color: #bbb; }
+}
+@media (max-width: 480px) {
+  .land-ack { padding: 0.5rem; font-size: 0.95rem; }
+}
