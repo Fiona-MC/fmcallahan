@@ -10,8 +10,8 @@
 - Designed original syllabi, lesson plans, and coordinated accessibility accommodations
 
 **Math Instructor, Mount Tamalpais College, San Quentin Rehabilitation Center**
-- Volunteer math instructor for college preparatory courses at San Quentin Rehabilitation Center (Summer 2024 - Present)
-- Designed lessons, assignments, and exams for adult students preparing for college-level mathematics
+- Volunteer math instructor for college-level and college-preparatory courses for incarcerated students at San Quentin Rehabilitation Center (Summer 2024 - Present)
+- Designed and taught lessons; created assignments and exams for adult students
 
 **Research Mentorship**
 - Mentored 6 undergraduate research assistants in computational biology projects (2022 - Present)
