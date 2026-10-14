@@ -7,7 +7,7 @@ main:
     
   - title: "Reproducibility and normalization in ancient environmental DNA"
     year: 2026
-    authors: <strong>Callahan, F. M.</strong>, Kjær, K. H., Ramsøe, A. D., Willerslev, E., & Nielsen, R.
+    authors: <strong>Callahan, F.</strong>, Kjær, K. H., Ramsøe, A. D., Willerslev, E., & Nielsen, R.
     image: ./assets/img/reproducibility.png
     notes: in preparation
 
@@ -28,7 +28,7 @@ main:
 
   - title: "STEM-LM: Spatio-Temporal Ecological Modeling via Masked Language Model for Joint Species Distribution"
     year: 2026
-    authors: Li, J. K., Lim, W., <strong>Callahan, F. M.</strong>, Raskin, L. Y., Lemmon-Kishi, M., & Nielsen, R.
+    authors: Li, J. K., Lim, W., <strong>Callahan, F.</strong>, Raskin, L. Y., Lemmon-Kishi, M., & Nielsen, R.
     conference: bioRxiv, 2026-05.
     notes: in review.
     image: ./assets/img/stemlm.png
